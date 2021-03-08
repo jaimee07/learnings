@@ -1,0 +1,86 @@
+if computers can learn behavior instead of being told what to do
+
+starting small and going big - human learning
+
+process:
+problem, create rule, apply rule, feedback, adjust rule
+
+carefully defined instructions
+
+data: test data, training data
+training data - training the model
+test data
+
+binary classifiction
+
+machine learning provides customized experience
+recommendations for each users
+
+the data you provide is how your machine will view the world, so better to strategize 
+and get broad data
+
+supervised and unsupervised learning. 
+- like learning a game in real life, it might be beneficial to have someone tutor you - tell you the rules, basic strategies etc. this is supervised learning. 
+- the other approach is to watch people play the game, seeing enough number of games can help you understand the game eventually.
+- or both. hire a tutor and observe other people.
+
+
+supervised learning relies on the the data that you know, the data you have label to.
+labelled data is the key for your machine to connect the dots. 
+You have correct outcome, you have correct sets of answers based on the labelled data.
+
+After generating the model from your training data, the machine will generate a model.
+You can then feed the model with your test data and predict the correct outcome.
+Provide feedback to your model and then tune again.
+
+Q: how to give feedback to the model?
+
+unsupervised learning is somehow the more common way of learning. if you think about it, most of what we know and do comes from observing other people.
+
+the key to unsupervised learning is access to lots of data that it can learn from. common use is to make classifications/clustering that you might not even think of. 
+
+semi-supervised learning - inductive reasoning - use in translations
+
+reinforcement learning
+- best model
+- giving the machine a very clear goal
+- q learning - quality
+- q goes up if you make the right move. eventually, the machine will learn strategies to make the value of Q go up.
+
+categories of supervised learning
+- binary classification
+- multiclass classification
+- regression - trends, no predefined outcomes
+ 
+ show the machines what it means for a say room to be booked.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
