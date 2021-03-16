@@ -1,0 +1,19 @@
+CAregories of Supervised learning
+1. binary classification  - use statistical computation to determine if yes or no after training a model using labeled data 
+- is this a hotdog?
+2. multiclass classification
+- classfly into different snack categories
+3. regression
+- how many snack needed for the upcoming christmas event?
+- how many rooms will be booked on christmas season?
+
+Decision Trees
+- algo creates a decision tree based on the chosen predictors to identify/produce outcome
+- if you reach entropy, that is, the decision tree does not tell anything about the outcome, then you might need new or additional predictors
+k-nearest neighbor
+- lazy learning - because learning doesnt happen continuously, run computation in one big instance
+- compares something you dont know to what you already have
+- algo looks at the nearest neighbors to classify the unknown data
+k-means clustering
+- unsupervised clustering
+- the algo tries to find the best combination of clusters to group the data
