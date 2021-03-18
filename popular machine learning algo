@@ -17,3 +17,9 @@ k-nearest neighbor
 k-means clustering
 - unsupervised clustering
 - the algo tries to find the best combination of clusters to group the data
+
+regression analysis
+- more on predicting(statistical model) than learning
+
+Conditional probabilty
+- bayes theorem 
